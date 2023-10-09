@@ -4,7 +4,7 @@ ARG PROTO_VERSION=23.3
 ARG GRPCWEB_VERSION=1.4.2
 ARG JS_VERSION=3.21.2
 
-LABEL version=${GRPCWEB_VERSION}-js
+LABEL version=${GRPCWEB_VERSION}-dev
 LABEL maintainer="nrhrhysd616 <nrhrhysd616@becrazy.jp>"
 LABEL description="protoc-gen-grpc-web"
 
