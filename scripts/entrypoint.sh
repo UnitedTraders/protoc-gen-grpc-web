@@ -12,4 +12,4 @@ done
 exec protoc \
     --proto_path=/usr/local/include:${PROTOS_DIR} \
     ${args_with_output_dir} \
-    '/protos/**/*.proto'
+    ${PROTOS_DIR}/**/*.proto
