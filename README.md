@@ -1,3 +1,5 @@
+# Please do not use this image, use [ts-proto](https://github.com/stephenh/ts-proto) and [nice-grpc](https://github.com/deeplay-io/nice-grpc)
+
 # nrhrhysd616/protoc-gen-grpc-web
 
 ## Description
